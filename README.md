@@ -13,4 +13,4 @@ Software developer with a strong foundation in **C++**, **C#** passionate about 
 `C++` `ASP.NET Core` `SQL Server` `Back-End ` `Web API ` `Software testing ` 
 
 ### Featured Project
-**[LogiTrack]([link-to-repo](https://github.com/asmaa33-amr0/LogiTrack-.Net-project))** — a logistics and shipment management platform with customer, driver, and admin portals, built with ASP.NET Core, EF Core, and JWT authentication.
+**[LogiTrack]((https://github.com/asmaa33-amr0/LogiTrack-.Net-project))** — a logistics and shipment management platform with customer, driver, and admin portals, built with ASP.NET Core, EF Core, and JWT authentication.
