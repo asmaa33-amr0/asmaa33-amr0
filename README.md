@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Asmaa 👋
 
-<!--
-**asmaa33-amr0/asmaa33-amr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer with a strong foundation in **C++**, **C#** passionate about competitive programming and algorithmic problem-solving.
 
-Here are some ideas to get you started:
+- 🔭 Currently building full-stack projects and sharpening my systems-level thinking
+- 💡 Enjoy tackling coding contests and optimization challenges
+- 🌱 Always learning — clean, efficient, well-structured code is the goal
+- 📫 Reach me at: *(asmaaamr7979@gmail.com)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+`C++` `ASP.NET Core` `SQL Server` `Back-End ` `Web API ` `Software testing ` 
+
+### Featured Project
+**[LogiTrack]([link-to-repo](https://github.com/asmaa33-amr0/LogiTrack-.Net-project))** — a logistics and shipment management platform with customer, driver, and admin portals, built with ASP.NET Core, EF Core, and JWT authentication.
